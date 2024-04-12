@@ -1,0 +1,10 @@
+{
+  "name": "helpet",
+  "version": "1.0.0",
+  "author": "Gürkan Sevil",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {}
+}
